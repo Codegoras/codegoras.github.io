@@ -5,6 +5,7 @@
 theme = "blowfish"
 baseURL = "https://codegoras.github.io"
 defaultContentLanguage = "es"
+title = "Codegoras"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -33,3 +34,11 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+[author]
+  name = "3rickDJ"
+  image = "img/author.jpg"
+  headline = "A general great human"
+  bio = "Un poco de polvo de estrellas conciente"
+  links = [
+    { twitter = "https://twitter.com/username" }
+  ]
