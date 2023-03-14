@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://3rickdj.github.io/codegoras/"
+baseURL = "https://codegoras.github.io/"
 defaultContentLanguage = "es"
 title = "Codegoras"
 
