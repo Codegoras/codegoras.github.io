@@ -40,5 +40,5 @@ buildFuture = false
   headline = "Una organización de desarrolladores profesionales"
   bio = "Herramientas básicas para profesionales"
   links = [
-    { twitter = "https://twitter.com/username" }
+    { twitter = "https://twitter.com/codegora" }
   ]
